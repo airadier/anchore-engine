@@ -4,7 +4,7 @@ Click==7.0
 connexion==2.5.1
 Flask==1.1.1
 jsonschema==2.6.0
-passlib==1.7.2
+passlib==1.7.3
 pathlib==1.0.1
 prettytable==0.7.2
 prometheus-client==0.7.1
@@ -14,7 +14,7 @@ psycopg2-binary==2.8.4
 python-dateutil==2.8.1
 python-swiftclient==3.8.1
 pytz==2019.3
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.23.0
 retrying==1.3.3
 semantic-version==2.6.0
@@ -25,7 +25,7 @@ toastedmarshmallow==2.15.2.post1
 treelib==1.5.5
 Twisted[tls]==20.3.0
 typing==3.7.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 watchdog==0.9.0
 Werkzeug==0.16.0
 yosai==0.3.2
